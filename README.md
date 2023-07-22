@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋, soy Angel</h1><h3 align="center">Un desarrollador apasionado</h3>
+<h1 align="center">Hola 👋, my name is  Angel</h1><h3 align="center">Un desarrollador apasionado</h3>
 
 
-- Actualmente estoy trabajando en **E-Invoncing**- Actualmente estoy aprendiendo **DEVEXPRESS, BOOSTRAP, IONIC, .NET**- 🔭 🌱 💬 Pregúntame sobre **VB, JS, ANGULAR, HTML, CSS, SQL**- 📫 Cómo llegar a mí **ing.gaytan@icloud.com**
+- Actualmente estoy trabajando en **E-Invoncing**- estoy aprendiendo **DEVEXPRESS, BOOSTRAP, IONIC, .NET**- 🔭 🌱 💬 Pregúntame sobre **VB, JS, ANGULAR, HTML, CSS, SQL**- 📫 Cómo llegar a mí **ing.gaytan@icloud.com**
 
 
 
@@ -11,7 +11,6 @@
 
 - Conoce mis experiencias [https://1drv.ms/w/s!AtsRiaUA4wY5g-dOPFylwS535CxKLg?e=dsKU8J](https://1drv.ms/w/s!AtsRiaUA4wY5g-dOPFylwS535CxKLg 📄?e=dsKU8J)
 
-<h3 align="left">Conéctate conmigo:</h3><p align="left"></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
